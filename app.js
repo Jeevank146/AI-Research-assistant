@@ -2,7 +2,7 @@
 
 // Published n8n workflow
 const WEBHOOK_URL =
-  "https://deaf-immune-deleted-gnu.trycloudflare.com/webhook/research-assistant";
+  "https://embassy-royalty-signature-really.trycloudflare.com/webhook/research-assistant-public";
 const MAX_FILE_BYTES = 15 * 1024 * 1024;
 
 // Supported file types

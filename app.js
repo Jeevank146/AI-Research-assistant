@@ -1,7 +1,7 @@
 // ResearchDesk frontend — connects to the n8n Research Assistant webhook.
 
 // Published n8n workflow
-const WEBHOOK_URL = 'http://localhost:5678/webhook/research-assistant';
+const WEBHOOK_URL = 'https://elementary-ultra-britain-saskatchewan.trycloudflare.com/webhook/research-assistant';
 
 const MAX_FILE_BYTES = 15 * 1024 * 1024;
 

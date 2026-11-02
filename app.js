@@ -1,7 +1,7 @@
 // ResearchDesk frontend — connects to the n8n Research Assistant webhook.
 
 // Published n8n workflow
-const N8N_WEBHOOK_URL =
+const WEBHOOK_URL =
   "https://deaf-immune-deleted-gnu.trycloudflare.com/webhook/research-assistant";
 const MAX_FILE_BYTES = 15 * 1024 * 1024;
 
